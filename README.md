@@ -33,18 +33,16 @@ The following **optional** features are implemented:
     - Difficulty: Easy/medium/hard
     - Subject: Biology/Chemistry/Physics/Earth science
 
-The following **additional** features are implemented:
 
-* [ ] List anything else that you added to improve the site's functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href='https://drive.google.com/file/d/1UCVX7LlkPctP6l9mkQe11V-Ny01CuxuZ/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough'>Click Here to View Walkthrough</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ezgif.com
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
